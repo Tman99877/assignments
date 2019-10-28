@@ -1,3 +1,6 @@
+
+@media only screen and (max-width: 600px) {
+
 body{
 
 
@@ -19,7 +22,7 @@ border: 1px solid black;
 
 div{
  	
- height: 1185px;
+ height: 1285px;
   width: 1000px;
   
 text-align: center;
@@ -30,6 +33,7 @@ background-repeat: no-repeat;
 background-position : center
 border: 2px solid black;
 
+
 }
 
 nav{
@@ -38,6 +42,7 @@ text-align: left;
 background-color:#41C7FA;
 height: 90px;
  font-size: 22px;
+  display: block;
  
   padding-bottom: 20px;
 }
@@ -47,6 +52,7 @@ h2{
  color: #33D4FF;
 	text-align: left;
   padding-left: 35px;
+  padding-top: 240px
 }
 
 p{
@@ -61,6 +67,7 @@ ul{
 font-size: 25px;
  text-align: left;
  padding-left: 50px;
+ padding-top: 50px;
 }
 
 h4{
@@ -68,3 +75,25 @@ h4{
 font-style: italic;
 }
 
+
+
+
+
+ #wrapper {
+width: 960px;
+ background-color:#060692;
+  margin-right: auto; 
+  margin-left:  auto; 
+
+
+
+  padding-right: 10px; 
+  padding-left:  10px;
+}
+a:hover:not(.active) {
+  background-color: #555;
+  color: #f1f1f1;
+  ]
+  
+}
+	  
